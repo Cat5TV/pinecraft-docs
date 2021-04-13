@@ -4,7 +4,7 @@ Introduction
 Server Introduction: Patron Survival
 ------------------------------------
 
-Using the Category5 TV RPi level seed, Patron Survival is a fun, collaborative world where its player against the elements.
+Using the Category5 TV RPi level seed, Patron Survival is a fun, collaborative world that challenges players against the elements.
 
 Run North East from spawn toward the community area, complete with a working nether portal, Safe Haven to hide from night mobs and rest your head on one of the provided beds, and a village south of there, atop the hill.
 
