@@ -9,7 +9,7 @@ Pinecraft Installer
 | |Logo|  |
 +---------+
 
-Minecraft Java Server Installer for Raspberry Pi, PINE64 and Other SBCs.
+Minecraft Java Server Installer optimized for Raspberry Pi, PINE64 and Other SBCs or Virtual Machines.
 
 .. image:: https://readthedocs.org/projects/pinecraft/badge/?version=latest
   :alt: Documentation Status
@@ -61,6 +61,8 @@ What's Next
 Patron Multi-Player Server
 --------------------------
 
+Those who `support Pinecraft Installer on Patreon <https://patreon.com/pinecraft/>`__ receive access to our exclusive high-performance Minecraft server.
+
 Survival
 ^^^^^^^^
 
@@ -68,14 +70,11 @@ Survival
     :maxdepth: 1
     :caption: Survival
 
+    patrons/survival/rules
+    patrons/survival/introduction
     patrons/survival/area_protection
     patrons/survival/notable_builds
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Platforms
-
-    platforms/index
+    patrons/survival/maps
 
     
 Helpful Links
