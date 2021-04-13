@@ -1,13 +1,43 @@
 Pinecraft Installer
 ===================
 
+.. |Logo| image:: img/pinecraft-logo.png
+    :width: 600px
+    :alt: Pinecraft Installer Logo
+
++---------------+
+| |Logo|  |
++---------------+
+
+Minecraft Java Server Installer for Raspberry Pi, PINE64 and Other SBCs.
+
+.. image:: https://readthedocs.org/projects/pinecraft/badge/?version=latest
+  :alt: Documentation Status
+
 Getting Started
 ---------------
 
 Introduction
 ^^^^^^^^^^^^
 
-Pinecraft Installer installs a Minecraft server.
+Pinecraft Installer simplifies the installation and setup of a Minecraft Java Server.
+
+If you have already installed this, running it again will allow you to upgrade.
+
+.. |patreon| image:: img/patreon.png
+    :width: 200px
+    :alt: Support Me On Patreon
+    :target: https://patreon.com/pinecraft/
+
++---------------+
+| |patreon|  |
++---------------+
+
+The installer will setup a "Normal" difficulty server and allow you to select between a Survival world complete with mobs, nether and more, or a Creative world to hone your skills as a master builder.
+
+The installer attempts to detect things like how much RAM you have (and available), and adjusts the server settings based on what it finds.
+
+Looking For Help? Pinecraft Installer installs Minecraft Java servers. If your question has to do with something other than installing a Minecraft server with Pinecraft Installer, the question likely is not for us. Questions surrounding gameplay, how to use a Minecraft server, etc., should be directed to the Minecraft documentation. Once your Minecraft server is installed, Pinecraft's job is done.
 
 Table of Contents
 ^^^^^^^^^^^^^^^^^
