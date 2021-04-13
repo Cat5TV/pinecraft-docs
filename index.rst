@@ -5,9 +5,9 @@ Pinecraft Installer
     :width: 600px
     :alt: Pinecraft Installer Logo
 
-+---------------+
++---------+
 | |Logo|  |
-+---------------+
++---------+
 
 Minecraft Java Server Installer for Raspberry Pi, PINE64 and Other SBCs.
 
@@ -29,9 +29,9 @@ If you have already installed this, running it again will allow you to upgrade.
     :alt: Support Me On Patreon
     :target: https://patreon.com/pinecraft/
 
-+---------------+
++------------+
 | |patreon|  |
-+---------------+
++------------+
 
 The installer will setup a "Normal" difficulty server and allow you to select between a Survival world complete with mobs, nether and more, or a Creative world to hone your skills as a master builder.
 
