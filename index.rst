@@ -63,12 +63,12 @@ Patron Multi-Player Server
 
 Those who `support Pinecraft Installer on Patreon <https://patreon.com/pinecraft/>`__ receive access to our exclusive high-performance Minecraft server.
 
-Survival
-^^^^^^^^
+Available Servers
+^^^^^^^^^^^^^^^^^
 
 .. toctree::
     :maxdepth: 1
-    :caption: Survival
+    :caption: Patron Survival Server
 
     patrons/survival/rules
     patrons/survival/introduction

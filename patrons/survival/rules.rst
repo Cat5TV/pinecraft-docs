@@ -1,8 +1,8 @@
-Patron Survival Server Rules
-============================
+Rules
+=====
 
-Introduction
-------------
+Server Rules: Patron Survival
+-----------------------------
 
 1. This server is meant as a fun perk for those who support the show, but it is just that: a Perk. You're not buying access to our Minecraft server. While I'd hate to have to do it, players who violate the rules will be removed from the server regardless of their support, so please read, understand and follow these simple rules.
 2. No Griefing When you come across someone else's build or area, whether complete or not, it is not yours to break, take components of, or loot.
