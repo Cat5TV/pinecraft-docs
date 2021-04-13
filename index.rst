@@ -39,14 +39,15 @@ The installer attempts to detect things like how much RAM you have (and availabl
 
 Looking For Help? Pinecraft Installer installs Minecraft Java servers. If your question has to do with something other than installing a Minecraft server with Pinecraft Installer, the question likely is not for us. Questions surrounding gameplay, how to use a Minecraft server, etc., should be directed to the Minecraft documentation. Once your Minecraft server is installed, Pinecraft's job is done.
 
-Table of Contents
-^^^^^^^^^^^^^^^^^
+Installation
+^^^^^^^^^^^^
 
 .. toctree::
     :maxdepth: 2
     :caption: Getting Started
 
-    files/file    
+    installation/base_os
+    installation/installing_pinecraft
 
 
 What's Next
@@ -57,14 +58,18 @@ What's Next
 - Tell everyone you know about Pinecraft Installer, blog about it, screencast on your YouTube channel, talk about it on your podcast. Spread the word.
 
 
-Documentation
--------------
+Patron Multi-Player Server
+--------------------------
+
+Survival
+^^^^^^^^
 
 .. toctree::
     :maxdepth: 1
-    :caption: The Basics
+    :caption: Survival
 
-    files/file
+    patrons/survival/area_protection
+    patrons/survival/notable_builds
 
 .. toctree::
     :maxdepth: 2
