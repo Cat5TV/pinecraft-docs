@@ -33,3 +33,16 @@ Just a short journey west of spawn, you'll find our community area. This shared 
 +------------+
 | |settler|  |
 +------------+
+
+
+Ginga Ninja's Island
+^^^^^^^^^^^^^^^^^^^^
+
+.. |ginganinja| image:: ../../img/pinecraft-maps/survival/ginganinja.jpg
+    :width: 600px
+    :alt: Ginga Ninja's Island
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/ginganinja.webp
+
++---------------+
+| |ginganinja|  |
++---------------+
