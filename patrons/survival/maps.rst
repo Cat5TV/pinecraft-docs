@@ -27,7 +27,7 @@ Head west to find our Settler's Village, or explore the vast world.
 Settler's Village
 ^^^^^^^^^^^^^^^^^
 
-A short journey west of spawn, you'll find our community area. This shared space features a hillside village to the south, a functional nether portal in the heart of town, and a community garden to the north. Getting late? There's even a rustic safe haven in the north mountainside, just beyond the garden.
+A short journey west of spawn, you'll find our community area. This shared space features a hillside village to the south named Patronia, a functional community nether portal in the heart of town, and a garden to the north with food to help you on your journey. Is it getting late? Take shelter in a rustic safe haven in the north mountainside, just beyond the garden, featuring two beds, a crafting table, and a furnace.
 
 .. |settler| image:: ../../img/pinecraft-maps/survival/settlers-village.jpg
     :width: 600px
