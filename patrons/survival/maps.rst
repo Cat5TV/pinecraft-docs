@@ -8,7 +8,11 @@ Here are some key areas on our Survival server.
 Spawn
 ^^^^^
 
-Welcome to our Patron-exclusive Survival server!
+Welcome to our Patron-exclusive Survival server! Upon spawning in our world, you'll notice an eclectic collision of biomes, with a small lava pool, a pond, and a desert just beyond the grassy fields.
+
+Our beautiful spawn shelter provides a place to lay your head and stay safe should you spawn during the night.
+
+Head west to find our Settler's Village, or explore the vast world.
 
 .. |spawn| image:: ../../img/pinecraft-maps/survival/spawn.jpg
     :width: 600px
@@ -23,7 +27,7 @@ Welcome to our Patron-exclusive Survival server!
 Settler's Village
 ^^^^^^^^^^^^^^^^^
 
-Just a short journey west of spawn, you'll find our community area. This shared space features a hillside village to the south, a functional nether portal in the heart of town, and a community garden to the north. Getting late? There's even a rustic safe haven in the north mountainside, just beyond the garden.
+A short journey west of spawn, you'll find our community area. This shared space features a hillside village to the south, a functional nether portal in the heart of town, and a community garden to the north. Getting late? There's even a rustic safe haven in the north mountainside, just beyond the garden.
 
 .. |settler| image:: ../../img/pinecraft-maps/survival/settlers-village.jpg
     :width: 600px
@@ -51,6 +55,10 @@ Ginga Ninja's Island
 Baldnerd's Base
 ^^^^^^^^^^^^^^^
 
+After days of weary traveling, forced to abandon his horse at the ocean's edge, Baldnerd established his base of operation. With two broken nether portals in walking distance, and two villages beyond the mountain, resources are plentiful here.
+
+If you find it, you'll recognize it by Touchdown Tree; the very first area Baldnerd rested following his long, arduous journey.
+
 .. |baldnerd| image:: ../../img/pinecraft-maps/survival/baldnerd.jpg
     :width: 600px
     :alt: Baldnerd's Base
@@ -64,6 +72,8 @@ Baldnerd's Base
 Rheticus
 ^^^^^^^^
 
+Does this top secret town even exist? Surely, the first to find it will be heartily rewarded.
+
 .. |rheticus| image:: ../../img/pinecraft-maps/survival/rheticus.jpg
     :width: 600px
     :alt: Rheticus
@@ -73,3 +83,8 @@ Rheticus
 | |rheticus|  |
 +-------------+
 
+
+Add Your Base
+^^^^^^^^^^^^^
+
+Would you like your base added to this page? Ping Baldnerd on Discord.
