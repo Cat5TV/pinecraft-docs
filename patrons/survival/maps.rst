@@ -46,3 +46,30 @@ Ginga Ninja's Island
 +---------------+
 | |ginganinja|  |
 +---------------+
+
+
+Baldnerd's Base
+^^^^^^^^^^^^^^^
+
+.. |baldnerd| image:: ../../img/pinecraft-maps/survival/baldnerd.jpg
+    :width: 600px
+    :alt: Baldnerd's Base
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd.webp
+
++-------------+
+| |baldnerd|  |
++-------------+
+
+
+Rheticus
+^^^^^^^^
+
+.. |rheticus| image:: ../../img/pinecraft-maps/survival/rheticus.jpg
+    :width: 600px
+    :alt: Rheticus
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/rheticus.webp
+
++-------------+
+| |rheticus|  |
++-------------+
+
