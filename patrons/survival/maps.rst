@@ -135,6 +135,21 @@ Somewhere along the way between spawn and Baldnerd's Base, this scenic waterfall
 +-----------------------+
 
 
+Raughnbo's Area
+^^^^^^^^^^^^^^^
+
+**Coordinates:** Private
+
+.. |raughnbo| image:: ../../img/pinecraft-maps/survival/raughnbo.jpg
+    :width: 600px
+    :alt: Raughnbo's Area
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/raughnbo.webp
+
++-------------+
+| |raughnbo|  |
++-------------+
+
+
 Rheticus
 ^^^^^^^^
 
@@ -150,6 +165,7 @@ Does this top secret town even exist? Surely, the first to find it will be heart
 +-------------+
 | |rheticus|  |
 +-------------+
+
 
 
 Add Your Base
