@@ -156,3 +156,5 @@ Add Your Base
 ^^^^^^^^^^^^^
 
 Would you like your base added to this page? Ping Baldnerd on Discord.
+
+**Tip:** The camera drone flies from the south. So if your build is hidden behind a mountain, or facing north, the drone may not see it, or not capture it in all its glory. Consider facing your builds south to ensure the best pictures.
