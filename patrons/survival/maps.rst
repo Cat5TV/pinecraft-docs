@@ -95,7 +95,7 @@ If you find it, you'll recognize it by Touchdown Tree; the very first area Baldn
 Survival Safe House
 -------------------
 
-A simple, but safe place for Baldnerd to rest his head after a long day working in his mine.
+What started as a simple but safe place for Baldnerd to rest his head after a long day working in his mine has grown into a massive structure to house many rooms.
 
 .. |baldnerd-safehouse| image:: ../../img/pinecraft-maps/survival/baldnerd-safehouse.jpg
     :width: 600px
@@ -106,15 +106,28 @@ A simple, but safe place for Baldnerd to rest his head after a long day working 
 | |baldnerd-safehouse|  |
 +-----------------------+
 
-Topside Nether Portal
----------------------
+Nether Portal 1
+---------------
 
-Yet to be completed, Baldnerd has his diamond pickaxe ready, and is about to step through.
+Top Side
+^^^^^^^^
+
+Baldnerd's first netherportal is just a short run around the bay from the safe house.
 
 .. |baldnerd-netherportal-01| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-01.jpg
     :width: 600px
-    :alt: Baldnerd's Topside Nether Portal
+    :alt: Baldnerd's Nether Portal - Top Side
     :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-01.webp
+
+Nether Side
+^^^^^^^^^^^
+
+Quickly learning to craft and wear golden boots in the Nether, Baldnerd's portal landed him square in the middle of a massive grouping of Piglins.
+
+.. |baldnerd-netherportal-01| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-01n.jpg
+    :width: 600px
+    :alt: Baldnerd's Nether Portal - Nether Side
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-01n.webp
 
 +-----------------------------+
 | |baldnerd-netherportal-01|  |
