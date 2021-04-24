@@ -119,19 +119,57 @@ Baldnerd's first netherportal is just a short run around the bay from the safe h
     :alt: Baldnerd's Nether Portal - Top Side
     :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-01.webp
 
++-----------------------------+
+| |baldnerd-netherportal-01|  |
++-----------------------------+
+
 Nether Side
 ^^^^^^^^^^^
 
 Quickly learning to craft and wear golden boots in the Nether, Baldnerd's portal landed him square in the middle of a massive grouping of Piglins.
 
-.. |baldnerd-netherportal-01| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-01n.jpg
+.. |baldnerd-netherportal-01n| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-01n.jpg
     :width: 600px
     :alt: Baldnerd's Nether Portal - Nether Side
     :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-01n.webp
 
++------------------------------+
+| |baldnerd-netherportal-01n|  |
++------------------------------+
+
+Nether Portal 1
+---------------
+
+Top Side
+^^^^^^^^
+
+On the north side of Baldnerd's mountain lay two villages, one of which contained an inactive nether portal. Having the needed tools on hand,
+Baldnerd made haste and quickly had the portal up and running.
+
+.. |baldnerd-netherportal-02| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-02.jpg
+    :width: 600px
+    :alt: Baldnerd's Nether Portal 2 - Top Side
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-02.webp
+
 +-----------------------------+
-| |baldnerd-netherportal-01|  |
+| |baldnerd-netherportal-02|  |
 +-----------------------------+
+
+Nether Side
+^^^^^^^^^^^
+
+Watch your step! Entering the nether from Baldnerd's Nether Portal 2 means you'll find yourself on the edge of fiery lava pits. The plan
+is to slowly build up the area to make it safer to navigate, and then Baldnerd will be able to explore and find out what mysteries lie on this
+side of the portal.
+
+.. |baldnerd-netherportal-02n| image:: ../../img/pinecraft-maps/survival/baldnerd-neterportal-02n.jpg
+    :width: 600px
+    :alt: Baldnerd's Nether Portal 2 - Nether Side
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd-neterportal-02n.webp
+
++------------------------------+
+| |baldnerd-netherportal-02n|  |
++------------------------------+
 
 The Waterfall
 -------------
@@ -161,6 +199,21 @@ Raughnbo's Area
 +-------------+
 | |raughnbo|  |
 +-------------+
+
+
+MiGamer71's Area
+^^^^^^^^^^^^^^^^
+
+Visible from the west side of Patronia, MiGamer71 has been setting up an impressive build.
+
+.. |migamer71| image:: ../../img/pinecraft-maps/survival/migamer71.jpg
+    :width: 600px
+    :alt: MiGamer71's Area
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/migamer71.webp
+
++--------------+
+| |migamer71|  |
++--------------+
 
 
 Rheticus
