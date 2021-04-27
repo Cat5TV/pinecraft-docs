@@ -80,6 +80,18 @@ Preparing for a build, Ginga Ninja works his mines to get the resources he needs
 | |ginganinja-fortress|  |
 +------------------------+
 
+Robbie rendered and re-rendered the fortress drone shot several times before speaking with Jeff about the strange
+half nether portal. The assumption all along was that it was a glitch. But then Jeff showed an in-game screenshot.
+
+.. |ginganinja-ss-nether| image:: ../../img/pinecraft-maps/survival/ginganinja-ss-nether.jpg
+    :width: 600px
+    :alt: Ginga Ninja's Cut-Off Nether Portal
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/ginganinja-ss-nether.jpg
+
++-------------------------+
+| |ginganinja-ss-nether|  |
++-------------------------+
+
 
 Baldnerd's Base
 ^^^^^^^^^^^^^^^
