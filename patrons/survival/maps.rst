@@ -16,6 +16,15 @@ Our beautiful spawn shelter provides a place to lay your head and stay safe shou
 
 Head west to find our Settler's Village, or explore the vast world.
 
+.. |spawn_map| image:: ../../img/pinecraft-maps/survival/spawn_map.jpg
+    :width: 600px
+    :alt: Spawn Map
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/spawn_map.webp
+
++--------------+
+| |spawn_map|  |
++--------------+
+
 .. |spawn| image:: ../../img/pinecraft-maps/survival/spawn.jpg
     :width: 600px
     :alt: Spawn
