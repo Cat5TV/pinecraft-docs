@@ -237,6 +237,21 @@ Visible from the west side of Patronia, MiGamer71 has been setting up an impress
 +--------------+
 
 
+bp9's Area
+^^^^^^^^^^^^^^^^
+
+Having worked the mines for several days, bp9's structures are starting to take shape.
+
+.. |bp9| image:: ../../img/pinecraft-maps/survival/bp9.jpg
+    :width: 600px
+    :alt: bp9's Area
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/bp9.webp
+
++--------+
+| |bp9|  |
++--------+
+
+
 Rheticus
 ^^^^^^^^
 
