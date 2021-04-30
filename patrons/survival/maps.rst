@@ -118,6 +118,15 @@ Survival Safe House
 
 What started as a simple but safe place for Baldnerd to rest his head after a long day working in his mine has grown into a massive structure to house many rooms.
 
+.. |baldnerds_fortress| image:: ../../img/pinecraft-maps/survival/baldnerds_fortress.jpg
+    :width: 600px
+    :alt: Baldnerd's Fortress
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerds_fortress.webp
+
++-----------------------+
+| |baldnerds_fortress|  |
++-----------------------+
+
 .. |baldnerd-safehouse| image:: ../../img/pinecraft-maps/survival/baldnerd-safehouse.jpg
     :width: 600px
     :alt: Baldnerd's Safehouse
