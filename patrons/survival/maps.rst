@@ -100,6 +100,15 @@ Baldnerd's Base
 
 The beautiful, distant land of Baldnerd, aka Robbie Ferguson from Category5 Technology TV. Robbie is also the server administrator, but all of the builds on his base and all travel are 100% Survival (no cheats, no creative mode, no flying, no teleporting).
 
+.. |baldnerd_map| image:: ../../img/pinecraft-maps/survival/baldnerd_map.jpg
+    :width: 600px
+    :alt: Baldnerd's Area
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd_map.webp
+
++-----------------------+
+| |baldnerds_fortress|  |
++-----------------------+
+
 After days of weary travel, forced to abandon his horse at the ocean's edge, Baldnerd established his base of operation. With two broken nether portals in walking distance, and two villages beyond the mountain, resources are plentiful here.
 
 If you find it, you'll recognize it by Touchdown Tree; the very first area Baldnerd rested following his long, arduous journey.
@@ -118,10 +127,10 @@ Survival Safe House
 
 What started as a simple but safe place for Baldnerd to rest his head after a long day working in his mine has grown into a massive structure to house many rooms.
 
-.. |baldnerds_fortress| image:: ../../img/pinecraft-maps/survival/baldnerds_fortress.jpg
+.. |baldnerds_fortress| image:: ../../img/pinecraft-maps/survival/baldnerds_fortress.png
     :width: 600px
     :alt: Baldnerd's Fortress
-    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerds_fortress.webp
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerds_fortress.png
 
 +-----------------------+
 | |baldnerds_fortress|  |
