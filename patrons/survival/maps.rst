@@ -105,9 +105,9 @@ The beautiful, distant land of Baldnerd, aka Robbie Ferguson from Category5 Tech
     :alt: Baldnerd's Area
     :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd_map.webp
 
-+------------------+
++-----------------+
 | |baldnerd_map|  |
-+------------------+
++-----------------+
 
 After days of weary travel, forced to abandon his horse at the ocean's edge, Baldnerd established his base of operation. With two broken nether portals in walking distance, and two villages beyond the mountain, resources are plentiful here.
 
