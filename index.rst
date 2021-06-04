@@ -109,6 +109,14 @@ Sponsors
 Pinecraft is developed by Robbie Ferguson for `The Category5 TV Network <https://category5.tv>`__.
 
 
+Patrons
+-------
+
+While we appreciate each and every patron, some opt to have their name included in this list. Big thanks to the following patrons for their ongoing support of the Pinecraft Installer project:
+
+- Gabriel Varela
+
+
 Source Code
 -----------
 
