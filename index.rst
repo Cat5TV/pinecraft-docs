@@ -65,7 +65,6 @@ Those who `support Pinecraft Installer on Patreon <https://patreon.com/pinecraft
 
 .. toctree::
     :maxdepth: 2
-    :caption: Available Servers
 
     patrons/index
 
