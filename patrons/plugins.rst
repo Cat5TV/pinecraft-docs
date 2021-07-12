@@ -5,7 +5,7 @@ The following plugins are in use on our servers:
 
 1. bStats
 
-Metrics and usage data.
+This is used by plugins to quantify metrics and usage data.
 
 2. CoreProtect
 
