@@ -21,7 +21,7 @@ Generates visual map data for the docs (the "drone camera").
 
 5. RedProtect
 
-Allows users to protect their own builds and teleport to and from protected builds.
+Allows users to protect their own builds and teleport to and from protected builds. Users can select which other players have access to interact in their protected areas, and even prevent mobs from being able to damage their builds.
 
 6. SpawnProtect
 
