@@ -10,4 +10,5 @@ Pinecraft Patron Servers
     survival/area_protection
     survival/notable_builds
     survival/maps
+    plugins
 
