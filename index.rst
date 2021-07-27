@@ -39,6 +39,15 @@ The installer attempts to detect things like how much RAM you have (and availabl
 
 **Looking For Help?** Pinecraft Installer installs Minecraft Java servers. If your question has to do with something other than *installing* a Minecraft server with Pinecraft Installer, the question likely is not for us. Questions surrounding gameplay, how to use a Minecraft server, etc., should be directed to `the Minecraft documentation <https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server>`__. Once your Minecraft server is installed, Pinecraft's job is done.
 
+
+Patrons
+^^^^^^^
+
+I appreciate each and every Patron who supports Pinecraft on Patreon. The following have chipped in a little extra and get their names in the docs:
+
+- Oskar Särelind
+
+
 Documentation
 ^^^^^^^^^^^^^
 
