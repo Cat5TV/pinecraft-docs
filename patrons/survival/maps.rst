@@ -127,10 +127,10 @@ Survival Safe House
 
 What started as a simple but safe place for Baldnerd to rest his head after a long day working in his mine has grown into a massive structure to house many rooms.
 
-.. |baldnerds_fortress| image:: ../../img/pinecraft-maps/survival/baldnerds_fortress.png
+.. |baldnerds_fortress| image:: ../../img/pinecraft-maps/survival/baldnerd_fortress_2021-12-07_20.58.50.png
     :width: 600px
     :alt: Baldnerd's Fortress
-    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerds_fortress.png
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd_fortress_2021-12-07_20.58.50.png
 
 +-----------------------+
 | |baldnerds_fortress|  |
@@ -228,7 +228,16 @@ Somewhere along the way between spawn and Baldnerd's Base, this scenic waterfall
 Raughnbo's Area
 ^^^^^^^^^^^^^^^
 
-**Coordinates:** Private
+Raughnbo has been hard at work on what can only be described as a stunning survival build.
+
+.. |raughnbo_rome| image:: ../../img/pinecraft-maps/survival/raughnbo_Rome_2021-12-07_21.12.32.png
+    :width: 600px
+    :alt: Raughnbo's "Rome"
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/raughnbo_Rome_2021-12-07_21.12.32.png
+
++------------------+
+| |raughnbo_rome|  |
++------------------+
 
 .. |raughnbo| image:: ../../img/pinecraft-maps/survival/raughnbo.jpg
     :width: 600px
@@ -244,6 +253,24 @@ MiGamer71's Area
 ^^^^^^^^^^^^^^^^
 
 Visible from the west side of Patronia, MiGamer71 has been setting up an impressive build.
+
+.. |migamer71_homestead| image:: ../../img/pinecraft-maps/survival/migamer71_homestead_2021-12-07_21.20.16.png
+    :width: 600px
+    :alt: MiGamer71's Homestead
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/migamer71_homestead_2021-12-07_21.20.16.png
+
++------------------------+
+| |migamer71_homestead|  |
++------------------------+
+
+.. |migamer71_mob_farm| image:: ../../img/pinecraft-maps/survival/migamer71_mob_farm_2021-12-07_21.19.55.png
+    :width: 600px
+    :alt: MiGamer71's Mob Farm
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/migamer71_mob_farm_2021-12-07_21.19.55.png
+
++-----------------------+
+| |migamer71_mob_farm|  |
++-----------------------+
 
 .. |migamer71| image:: ../../img/pinecraft-maps/survival/migamer71.jpg
     :width: 600px
