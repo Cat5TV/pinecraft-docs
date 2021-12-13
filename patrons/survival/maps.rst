@@ -225,6 +225,21 @@ Somewhere along the way between spawn and Baldnerd's Base, this scenic waterfall
 +-----------------------+
 
 
+ItsYaBoiHinger's Area
+^^^^^^^^^^^^^^^^^^^^^
+
+Just a little North-West of BaldNerd's safehouse, ItsYaBoiHinger is working on his builds.
+
+.. |ItsYaBoiHinger| image:: ../../img/pinecraft-maps/survival/ItsYaBoiHinger.jpg
+    :width: 600px
+    :alt: ItsYaBoiHinger's Area
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/ItsYaBoiHinger.webp
+
++-------------------+
+| |ItsYaBoiHinger|  |
++-------------------+
+
+
 Raughnbo's Area
 ^^^^^^^^^^^^^^^
 
