@@ -239,6 +239,15 @@ Just a little North-West of BaldNerd's safehouse, ItsYaBoiHinger is working on h
 | |ItsYaBoiHinger|  |
 +-------------------+
 
+.. |ItsYaBoiHinger_castle| image:: ../../img/pinecraft-maps/survival/ItsYaBoiHinger_castle.jpg
+    :width: 600px
+    :alt: ItsYaBoiHinger's Castle
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/ItsYaBoiHinger_castle.webp
+
++--------------------------+
+| |ItsYaBoiHinger_castle|  |
++--------------------------+
+
 
 Raughnbo's Area
 ^^^^^^^^^^^^^^^
