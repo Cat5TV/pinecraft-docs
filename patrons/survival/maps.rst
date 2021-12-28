@@ -145,6 +145,17 @@ What started as a simple but safe place for Baldnerd to rest his head after a lo
 | |baldnerd-safehouse|  |
 +-----------------------+
 
+Travelling along the minecart tracks all the way from Hinger's castle, through the north side of Baldnerd's Safehouse fortress, and past the valley to the far east, the minecaft tracks end in a glass safehouse overlooking the swamplands.
+
+.. |baldnerd_swamp_train| image:: ../../img/pinecraft-maps/survival/baldnerd_swamp_train.jpg
+    :width: 600px
+    :alt: Baldnerd's Swamp Train Exit
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/baldnerd_swamp_train.webp
+
++-------------------------+
+| |baldnerd_swamp_train|  |
++-------------------------+
+
 Nether Portal 1
 ---------------
 
