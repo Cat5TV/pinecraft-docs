@@ -21,6 +21,15 @@ Welcome to our Patron-exclusive Creative server! Upon spawning in the Survival w
 | |creative_portal|  |
 +--------------------+
 
+.. |creative_portal_map| image:: ../../img/pinecraft-maps/creative/creative_portal_map.jpg
+    :width: 600px
+    :alt: Creative Portal Overhead Map
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/creative/creative_portal_map.webp
+
++------------------------+
+| |creative_portal_map|  |
++------------------------+
+
 
 Add Your Base
 ^^^^^^^^^^^^^
