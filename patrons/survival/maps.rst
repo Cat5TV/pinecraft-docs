@@ -260,6 +260,21 @@ Just a little North-West of BaldNerd's safehouse, ItsYaBoiHinger is working on h
 +--------------------------+
 
 
+WascallyWabbit21's Area
+^^^^^^^^^^^^^^^^^^^^^^^
+
+A little East of ItsYaBoiHinger's area, on the North side of Baldnerd's mountain, WascallyWabbit21 works on her builds.
+
+.. |WascallyWabbit21_tudor_cottage| image:: ../../img/pinecraft-maps/survival/WascallyWabbit21_tudor_cottage.jpg
+    :width: 600px
+    :alt: WascallyWabbit21's Tudor Cottage
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/WascallyWabbit21_tudor_cottage.webp
+
++-----------------------------------+
+| |WascallyWabbit21_tudor_cottage|  |
++-----------------------------------+
+
+
 Raughnbo's Area
 ^^^^^^^^^^^^^^^
 
