@@ -93,6 +93,23 @@ half nether portal. The assumption all along was that it was a glitch. But then 
 +-------------------------+
 
 
+_Gunky_'s Gunk Yard
+^^^^^^^^^^^^^^^^^^^
+
+_Gunky_ is just getting started, and has found a perfect mountaintop area to begin his builds.
+
+**Coordinates:** Private
+
+.. |gunky_home_sweet_home| image:: ../../img/pinecraft-maps/survival/gunky_home_sweet_home.jpg
+    :width: 600px
+    :alt: Gunky's Home Sweet Home
+    :target: https://raw.githubusercontent.com/Cat5TV/pinecraft-docs/main/img/pinecraft-maps/survival/gunky_home_sweet_home.webp
+
++--------------------------+
+| |gunky_home_sweet_home|  |
++--------------------------+
+
+
 Baldnerd's Base
 ^^^^^^^^^^^^^^^
 
