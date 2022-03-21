@@ -58,6 +58,8 @@ Documentation
     faq
     installation/base_os
     installation/installing_pinecraft
+    configuration/backup
+
 
 
 What's Next
