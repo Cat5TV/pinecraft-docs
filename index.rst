@@ -14,6 +14,8 @@ Minecraft Java Server Installer optimized for Raspberry Pi, PINE64 and Other SBC
 .. image:: https://readthedocs.org/projects/pinecraft/badge/?version=latest
   :alt: Documentation Status
 
+**Get Pinecraft Installer**: https://GitHub.com/Cat5TV/Pinecraft
+
 Getting Started
 ---------------
 
